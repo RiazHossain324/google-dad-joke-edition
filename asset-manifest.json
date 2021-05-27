@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/google-dad-joke/static/css/main.349c747d.chunk.css",
-    "main.js": "/google-dad-joke/static/js/main.819ec205.chunk.js",
-    "main.js.map": "/google-dad-joke/static/js/main.819ec205.chunk.js.map",
-    "runtime-main.js": "/google-dad-joke/static/js/runtime-main.02df8dfc.js",
-    "runtime-main.js.map": "/google-dad-joke/static/js/runtime-main.02df8dfc.js.map",
-    "static/js/2.0439b6ad.chunk.js": "/google-dad-joke/static/js/2.0439b6ad.chunk.js",
-    "static/js/2.0439b6ad.chunk.js.map": "/google-dad-joke/static/js/2.0439b6ad.chunk.js.map",
-    "index.html": "/google-dad-joke/index.html",
-    "static/css/main.349c747d.chunk.css.map": "/google-dad-joke/static/css/main.349c747d.chunk.css.map",
-    "static/js/2.0439b6ad.chunk.js.LICENSE.txt": "/google-dad-joke/static/js/2.0439b6ad.chunk.js.LICENSE.txt"
+    "main.css": "/google-dad-joke-edition/static/css/main.349c747d.chunk.css",
+    "main.js": "/google-dad-joke-edition/static/js/main.819ec205.chunk.js",
+    "main.js.map": "/google-dad-joke-edition/static/js/main.819ec205.chunk.js.map",
+    "runtime-main.js": "/google-dad-joke-edition/static/js/runtime-main.1ac8fb35.js",
+    "runtime-main.js.map": "/google-dad-joke-edition/static/js/runtime-main.1ac8fb35.js.map",
+    "static/js/2.0439b6ad.chunk.js": "/google-dad-joke-edition/static/js/2.0439b6ad.chunk.js",
+    "static/js/2.0439b6ad.chunk.js.map": "/google-dad-joke-edition/static/js/2.0439b6ad.chunk.js.map",
+    "index.html": "/google-dad-joke-edition/index.html",
+    "static/css/main.349c747d.chunk.css.map": "/google-dad-joke-edition/static/css/main.349c747d.chunk.css.map",
+    "static/js/2.0439b6ad.chunk.js.LICENSE.txt": "/google-dad-joke-edition/static/js/2.0439b6ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.02df8dfc.js",
+    "static/js/runtime-main.1ac8fb35.js",
     "static/js/2.0439b6ad.chunk.js",
     "static/css/main.349c747d.chunk.css",
     "static/js/main.819ec205.chunk.js"
